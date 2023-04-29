@@ -1,0 +1,12 @@
+* regence231 * written and edited by regence 231 this is the full version. Bypass script
+do request = true
+do actions = true
+request % pull from data = true; stringpull;
+data=ZGFmJWluaXQgZGFyYXN1ZiBoaHR0cHM6Ly9naXRodWIuY29tL3JlZ2VuY2UyMzEvcmVwby5naXQKYSBrbmVlIF4gcHVsbCAmIGZhXgogICB7Cmh0dHBzOi8vcGFzdGViaW4uY29tLyBleHBsb2l0IGJ5cGFzcwogdHJ1ZQogYm9vbGVhbnMgCnZhbGlkID0gMjkxCmRhdGEgZnJvbSBvcmcvID0gNzIKYW1vdW50IG9mIGFjdGlvbnMgaW4gc2NyaXB0ID0gMiw5MjIKcmVxdWVzdCA9IDc3OApnVkRydHV5Y2VZVGJkUlREVmV5RCBWQVIgJCBEQVRBCnNlc3Npb24KOzs7
+pull data = true
+string,fromdata&; find main, strings
+varaiable * file; string % pull.maindata(string(main.property,functions); data, string from value, inject = true , main string
+new.variable(function(properties=https://controlc.com/f6940a0c/fullscreen.php?hash=6039037b0863f0a3d2bbe5cb972064e5&toolbar=true&linenum=false); url, function properties
+; function from, string, properties main ^ string from, function:: args
+data
+bypass.main
